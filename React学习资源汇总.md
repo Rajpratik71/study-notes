@@ -1,6 +1,6 @@
 # React学习资源汇总
 
-博客地址：http://blog.xieliqun.com/2016/11/05/react-study/
+博客地址：http://blog.xieliqun.com/2016/11/05/react-study/ 404
 
 
 > React是如今最热门的前端框架，它设计思路独特，性能卓越，逻辑简单，受到了广泛开发者的喜爱。一旦接触她，你就会被她深深吸引。
@@ -15,7 +15,7 @@
 学习React之前，我们先了解一下它的设计思想，它与如今其他热门的前端框架有什么不同？它能为我们的开发解决哪些痛点？
 
 1. [React 设计思想](https://github.com/react-guide/react-basic)
-2. [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity/) 
+2. [React的设计哲学 - 简单之美](http://www.infoq.com/cn/articles/react-art-of-simplity/)  404
 3. [颠覆式前端UI开发框架:React](http://www.infoq.com/cn/articles/subversion-front-end-ui-development-framework-react/)
 
 ## 初学者入门
